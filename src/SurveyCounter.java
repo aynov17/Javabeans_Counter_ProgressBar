@@ -6,7 +6,7 @@
 
 /**
  *
- * @author anonymousliem
+ * @author ayunovita
  */
 public class SurveyCounter extends javax.swing.JApplet {
 
