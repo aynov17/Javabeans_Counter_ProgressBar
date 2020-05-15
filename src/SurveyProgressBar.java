@@ -6,7 +6,7 @@
 
 /**
  *
- * @author anonymousliem
+ * @author ayunovita
  */
 public class SurveyProgressBar extends javax.swing.JApplet {
 
